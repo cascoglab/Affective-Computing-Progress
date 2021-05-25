@@ -28,18 +28,14 @@ Discrete - Sad, Surprise, Happy, Fear, Angry, Contempt, Disgust. <br /> Continou
 [\[Get\]](http://mohammadmahoor.com/affectnet/) [\[Paper\]](http://mohammadmahoor.com/wp-content/uploads/2017/08/AffectNet_oneColumn-2.pdf)
 
 | Paper | Year| Metric | Code Link |
-| -----------  | | | |
-| -----------  | | | |
-| -----------  | | | |
-| -----------  | | | |
+| -----------| ----|--------| ----------|
+| | | | |
 
 ### ISLab
 
 | Paper | Year| Metric | Code Link |
-| -----------  | | | |
-| -----------  | | | |
-| -----------  | | | |
-| -----------  | | | |
+| -----------| ----|--------| ----------|
+| | | | |
 
 ### FER-2013
 
@@ -52,10 +48,8 @@ Angry, Disgust, Fear, Happy, Sad, Surprise, Neutral
 [\[Get\]](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data) [\[Paper\]](https://arxiv.org/pdf/1307.0414)
 
 | Paper | Year| Metric | Code Link |
-| -----------  | | | |
-| -----------  | | | |
-| -----------  | | | |
-| -----------  | | | |
+| -----------| ----|--------| ----------|
+| | | | |
 
 ## Video
 
@@ -65,9 +59,6 @@ Angry, Disgust, Fear, Happy, Sad, Surprise, Neutral
 ### Aff-Wild
 
 | Paper | Year| Metric | Code Link |
-| -----------  | | | |
-| -----------  | | | |
-| -----------  | | | |
-| -----------  | | | |
-
+| -----------| ----|--------| ----------|
+| | | | |
 

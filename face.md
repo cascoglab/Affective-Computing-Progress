@@ -11,12 +11,9 @@ CK+ comprises of posed facial expressions obtained from 123 adults in laboratory
 > ##### Label information:
 Sadness, Surprise, Happy, Fear, Angry, Contempt and Disgust.
 
-
 | Paper | Year| Metric | Code Link |
-| -----------  | | | |
-| -----------  | | | |
-| -----------  | | | |
-| -----------  | | | |
+| -----------| ----|--------| ----------|
+| | | | |
 
 ### AffectNet
 

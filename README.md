@@ -4,7 +4,7 @@ In this repository, we aim to collate the available resources and keep track of 
 
 ## Modalities
 
-- [Image](image.md)
+- [Image](face.md)
 - [Text](text.md)
 - [Physiological](physio.md)
 - [Speech](speech.md)

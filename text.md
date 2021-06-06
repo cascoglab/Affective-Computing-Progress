@@ -159,8 +159,8 @@ Admiration, Amusement, Anger, Annoyance, Approval, Caring, Confusion, Curiosity,
 EmoBank comprises of english sentences which contains both the reader's and the writer's annotation of Valence (V), Arousal (A) and Dominance (D) ranging from 1 to 5. In additon to VAD annotations, a subset of this dataset have been previously annotated with 6 affect states using continous values ranging from 0 to 100. [Strapparava and Mihalcea, 2007](https://www.aclweb.org/anthology/S07-1013/).
 
 > ##### Label information:
-Continous[1,5] - Valence, Arousal and Dominance <br />
-Continous[0,100] - Anger, Disgust, Fear, Joy, Sadness and, Surprise. 
+> Continous[1,5] - Valence, Arousal and Dominance <br />
+> Continous[0,100] - Anger, Disgust, Fear, Joy, Sadness and, Surprise. 
 
 [\[Get\]](https://github.com/JULIELab/EmoBank) [\[Paper\]](https://www.aclweb.org/anthology/E17-2092.pdf)
 

@@ -9,7 +9,7 @@ CK+ comprises of posed facial expressions obtained from 123 adults in laboratory
 [\[Get\]](http://www.jeffcohn.net/wp-content/uploads/2020/10/2020.10.26_CK-AgreementForm.pdf100.pdf.pdf) [\[Paper\]](http://www.jeffcohn.net/wp-content/uploads/2020/02/CVPR2010_CK2.pdf.pdf)
 
 > ##### Label information:
-Sadness, Surprise, Happy, Fear, Angry, Contempt and Disgust.
+> Sadness, Surprise, Happy, Fear, Angry, Contempt and Disgust.
 
 | Paper | Year| Metric | Code Link |
 | -----------| ----|--------| ----------|
@@ -20,7 +20,7 @@ Sadness, Surprise, Happy, Fear, Angry, Contempt and Disgust.
 AffectNet comprises of in-the-wild face images obtained from the web. A total of \~440,000 images were labelled with 7 discrete affect states and 2 continous affect ratings.
 
 > ##### Label information:
-Discrete - Sad, Surprise, Happy, Fear, Angry, Contempt, Disgust. <br /> Continous - Valence and Arousal.
+> Discrete - Sad, Surprise, Happy, Fear, Angry, Contempt, Disgust. <br /> Continous - Valence and Arousal.
 
 [\[Get\]](http://mohammadmahoor.com/affectnet/) [\[Paper\]](http://mohammadmahoor.com/wp-content/uploads/2017/08/AffectNet_oneColumn-2.pdf)
 
@@ -39,7 +39,7 @@ Discrete - Sad, Surprise, Happy, Fear, Angry, Contempt, Disgust. <br /> Continou
 FER-2013 was obtained using a keyword-based Google image search and comprises of 35887 images labelled with 7 discrete affect states.
 
 > ##### Label information:
-Angry, Disgust, Fear, Happy, Sad, Surprise, Neutral
+> Angry, Disgust, Fear, Happy, Sad, Surprise, Neutral
 
 
 [\[Get\]](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data) [\[Paper\]](https://arxiv.org/pdf/1307.0414)

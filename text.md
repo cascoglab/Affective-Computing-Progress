@@ -8,7 +8,7 @@ ISEAR comprises of self-reported emotional situations in the form of sentences f
 [\[Get\]](https://www.unige.ch/cisa/index.php/download_file/view/395/296/) [\[Paper\]](https://student.cc.uoc.gr/uploadFiles/179-%CE%9A%CE%A8%CE%92364/1994_Scherer_universal-biopsycho%20vs%20relative-cultural.pdf)
 
 > ##### Label information:
-Joy, Fear, Anger, Sadness, Disgust, Shame, and, Guilt
+> Joy, Fear, Anger, Sadness, Disgust, Shame, and, Guilt
 
 | Paper | Year| Metric | Code Link |
 | -----------| ----|--------| ----------|
@@ -18,7 +18,7 @@ Joy, Fear, Anger, Sadness, Disgust, Shame, and, Guilt
 Emotion Stimulus comprises of sentences where a subset of the dataset has the emotional stimuli (the cause of the emotions)labelled in the text. 820 sentences in the dataset contains the cause and 1594 sentences do not contain a cause but is annotated with one of 7 seven discrete affect states. 
 
 > ##### Label information:
-Happiness, Sadness, Anger, Fear, Surprise, Disgust and, Shame.
+> Happiness, Sadness, Anger, Fear, Surprise, Disgust and, Shame.
 
 [\[Get\]](https://www.site.uottawa.ca/~diana/resources/emotion_stimulus_data/) [\[Paper\]](https://www.site.uottawa.ca/~diana/publications/90420152.pdf)
 
@@ -41,7 +41,7 @@ EmoInt comprises of tweets annoted one of the 4 discrete affect states and a rea
 [\[Get\]](https://saifmohammad.com/WebPages/EmotionIntensity-SharedTask.html) [\[Paper\]](https://saifmohammad.com/WebDocs/TweetEmotionIntensities-starsem2017.pdf)
 
 > ##### Label information:
-Joy, Fear, Anger and, Sadness.
+> Joy, Fear, Anger and, Sadness.
 
 ### Task 1: Emotion Intensity Estimation
 
@@ -64,7 +64,7 @@ SSEC comprises of tweets from SemEval 2016 Twitter stance and sentiment corpus a
 [\[Get\]](http://www.romanklinger.de/ssec/) [\[Paper\]](http://www.romanklinger.de/publications/Schuff-etal-2017.pdf)
 
 > ##### Label information:
-Joy, Fear, Anger, Sadness, Surprise, Anticipation, Trust and, Disgst.
+> Joy, Fear, Anger, Sadness, Surprise, Anticipation, Trust and, Disgst.
 
 | Paper | Year| Metric | Code Link |
 | -----------| ----|--------| ----------|
@@ -77,7 +77,7 @@ DailyDialog comprises human-written multi-turn conversations with an average of 
 [\[Get\]](http://yanran.li/dailydialog.html) [\[Paper\]](https://www.aclweb.org/anthology/I17-1099.pdf)
 
 > ##### Label information:
-Happiness, Fear, Anger, Sadness, Surprise and, Disgst.
+> Happiness, Fear, Anger, Sadness, Surprise and, Disgst.
 
 | Paper | Year| Metric | Code Link |
 | -----------| ----|--------| ----------|
@@ -90,7 +90,7 @@ Grounded Emotions comprises of microblogs published in Twitter platform and the 
 [\[Get\]](https://web.eecs.umich.edu/~mihalcea/downloads.html#GroundedEmotions) [\[Paper\]](https://web.eecs.umich.edu/~mihalcea/papers/liu.acii17.pdf)
 
 > ##### Label information:
-Happy and Sad.
+> Happy and Sad.
 
 | Paper | Year| Metric | Code Link |
 | -----------| ----|--------| ----------|
@@ -104,7 +104,7 @@ Affect in Tweets comprises of tweets and this dataset was a part of SemEval-2018
 [\[Get\]](https://competitions.codalab.org/competitions/17751) [\[Paper\]](https://www.aclweb.org/anthology/S18-1001.pdf)
 
 > ##### Label information:
-Anger, Anticipation, Disgust, Fear, Joy, Love, Optimism, Pessimism, Sadness, Suprise and, Trust.
+> Anger, Anticipation, Disgust, Fear, Joy, Love, Optimism, Pessimism, Sadness, Suprise and, Trust.
 
 | Paper | Year| Metric | Code Link |
 | -----------| ----|--------| ----------|
@@ -117,7 +117,7 @@ EmpatheticDialogues comprises of multi-turn conversation comprising of a speaker
 [\[Get\]](https://github.com/facebookresearch/EmpatheticDialogues) [\[Paper\]](https://arxiv.org/pdf/1811.00207.pdf)
 
 > ##### Label information:
-Surprised, Excited, Angry, Proud, Sad, Annoyed, Grateful, Lonely, Afraid, Terrified, Guilty, Impressed, Disgusted, Hopeful, Confident, Furious, Anxious, Anticipating, Joyful, Nostalgic, Disappointed, Prepared, Jealous, Content, Devastated, Embarrassed, Caring, Sentimental, Trusting, Ashamed and, Apprehensive. 
+> Surprised, Excited, Angry, Proud, Sad, Annoyed, Grateful, Lonely, Afraid, Terrified, Guilty, Impressed, Disgusted, Hopeful, Confident, Furious, Anxious, Anticipating, Joyful, Nostalgic, Disappointed, Prepared, Jealous, Content, Devastated, Embarrassed, Caring, Sentimental, Trusting, Ashamed and, Apprehensive. 
 
 ### Task 1: Empathetic Response Generation
 
@@ -134,7 +134,7 @@ Surprised, Excited, Angry, Proud, Sad, Annoyed, Grateful, Lonely, Afraid, Terrif
 
 
 > ##### Label information:
-Happy and Sad.
+> Happy and Sad.
 
 | Paper | Year| Metric | Code Link |
 | -----------| ----|--------| ----------|
@@ -148,7 +148,7 @@ GoEmotions comprises of Reddit comments with a total of 58,009 instances. It is 
 [\[Get\]](https://github.com/google-research/google-research/tree/master/goemotions) [\[Paper\]](https://www.aclweb.org/anthology/2020.acl-main.372.pdf)
 
 > ##### Label information:
-Admiration, Amusement, Anger, Annoyance, Approval, Caring, Confusion, Curiosity, Desire, Disappointment, Disapproval, Disgust, Embarrassment, Excitement, Fear, Gratitude, Grief, Joy, Love, Neutral, Nervousness, Optimism, Pride, Realization, Relief, Remorse, Sadness, and, Surprise.
+> Admiration, Amusement, Anger, Annoyance, Approval, Caring, Confusion, Curiosity, Desire, Disappointment, Disapproval, Disgust, Embarrassment, Excitement, Fear, Gratitude, Grief, Joy, Love, Neutral, Nervousness, Optimism, Pride, Realization, Relief, Remorse, Sadness, and, Surprise.
 
 | Paper | Year| Metric | Code Link |
 | -----------| ----|--------| ----------|
